@@ -7,3 +7,5 @@ Please download the data sets from the [Kaggle competition page](https://www.kag
 2. Built an **XGBoost** model as the meta classifier using the raw features, the one-hot encoded features from sessions data and the logistic regression predictions along with some basic feature engineering to classify the users into the 12 countries (multiclass classifier). Code can be found in **_model_xgb.R_**
 
 3. The model scored 0.88081 on the public LB ranked 89 and scored 0.88625 on the private LB ranked 23 using the NDCG metric.
+
+4. Written a small summary on [My Blog](http://rohanrao91.blogspot.in/2016/02/airbnb-new-user-bookings.html).
